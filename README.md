@@ -1,2 +1,2 @@
-# basic-info
-Basic information about my activities
+# Basic Informations
+Basic informations about my activities
